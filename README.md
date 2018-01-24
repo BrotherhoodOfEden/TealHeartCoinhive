@@ -6,7 +6,7 @@
  * Project created as legacy... some people will like to have it
  * Why it created, which problems solved: easy to implement, donation button.
 
- ![Screenshot](https://github.com/BrotherhoodOfEden/TealHeartCoinhive/blob/master/Screenshot at 2018-01-24 12-55-01.png "screenshot TealHeartCoinhive.png")
+ ![Screenshot](https://github.com/BrotherhoodOfEden/TealHeartCoinhive/blob/master/Screenshot.png "screenshot TealHeartCoinhive.png")
 
  * For use copy in your project this files:`Heart.css, Heart.css` and copy your HTML component snippet:
   ```HTML
