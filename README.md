@@ -8,7 +8,7 @@
 
  ![Screenshot](https://github.com/BrotherhoodOfEden/TealHeartCoinhive/blob/master/Screenshot.png "screenshot TealHeartCoinhive.png")
 
- * For use copy in your project this files:`Heart.js, Heart.css`
+ * Instructions how to use: copy in your project this files:`Heart.js, Heart.css`
  change in `Heart.js` follow:
   ```javascript
   // change values below only
@@ -16,10 +16,16 @@
   var name = "Test";
   // change values above
   ```
-  
-  and copy your HTML component snippet:
+
+  * Copy your HTML component snippet:
 
   ```HTML
+  <!-- This put in header -->
+  <!-- copy style path start -->
+  <link rel="stylesheet" href="./Heart.css">
+  <!-- copy style path end -->
+
+  <!-- This put in body -->
   <!-- copy class start-->
   <form class="don-container" action="index.html" method="post">
   <fieldset>
@@ -33,6 +39,12 @@
   </fieldset>
   </form>
   <!-- copy class end-->
+
+  <!-- This put under body -->
+  <!-- copy scrypt path start-->
+  <script src="https://authedmine.com/lib/authedmine.min.js"></script>
+  <script type="text/javascript" src="./Heart.js"></script>
+  <!-- copy scrypt path end-->
   ```
 #### 2. What I use in this project
  * Frameworks : clean JavaScript, CSS, HTML
