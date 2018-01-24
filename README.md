@@ -8,7 +8,17 @@
 
  ![Screenshot](https://github.com/BrotherhoodOfEden/TealHeartCoinhive/blob/master/Screenshot.png "screenshot TealHeartCoinhive.png")
 
- * For use copy in your project this files:`Heart.css, Heart.css` and copy your HTML component snippet:
+ * For use copy in your project this files:`Heart.js, Heart.css`
+ change in `Heart.js` follow:
+  ```javascript
+  // change values below only
+  var sitekey = "xWNlzvozz2enW0AB9fOsKtS3AJgR0xJn";
+  var name = "Test";
+  // change values above
+  ```
+  
+  and copy your HTML component snippet:
+
   ```HTML
   <!-- copy class start-->
   <form class="don-container" action="index.html" method="post">
