@@ -115,6 +115,7 @@ legend {
   -webkit-transition: .2s;
   transition: opacity .2s;
   border-radius: 10px;
+  border: 1px solid #ff5252;
   /*transform: rotate(-90deg) scale(1);*/
 }
 
