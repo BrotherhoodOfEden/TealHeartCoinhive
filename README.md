@@ -46,12 +46,14 @@
   <script type="text/javascript" src="./Heart.js"></script>
   <!-- copy scrypt path end-->
   ```
+  
 #### 2. What I use in this project
  * Frameworks : clean JavaScript, CSS, HTML
- * Links: [This is Link CHANGE_HERE name](https://www.CHANGE_HERE)
+ * Links: [Screenshot](https://github.com/BrotherhoodOfEden/TealHeartCoinhive/blob/master/Screenshot.png "screenshot TealHeartCoinhive.png")
  * What cool things I found:
   * What I do not like: CSS for quick change difficult to use, next time better use mixins.
   * Features: Cross platform button, accordingly standards.
+
 #### 3. My thoughts
   * Pros : basic component
   * Cons : best way implement as Vue component
