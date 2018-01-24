@@ -140,3 +140,10 @@ legend {
   cursor: pointer;
   border-radius: 50%;
 }
+.scale-miner {
+	border-color: transparent #ff8686;
+	border-style: solid;
+	border-width: 10px 110px 0px 0px;
+	height: 0px;
+	width: 0px;
+}
